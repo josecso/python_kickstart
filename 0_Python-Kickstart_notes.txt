@@ -1,0 +1,31 @@
+Formação Python - Kickstart Session
+OK 1 - Introdução ao Python
+OK 2 - Criação e utilização de um Virtual Environment;
+OK 3 - Estrutura típica de um programa python;
+OK 4 - Tipos de Variáveis;
+OK 5 - Tipos de "Iterables" (Lists e Dictionaries);
+OK 6 - Trabalhar com ficheiros (leitura e escrita); 
+7 - Utilização de bibliotecas;
+OK 8 - Classes, Objetos, Metodos e Funções;
+9 - Execução de script.
+
+
+[*] Python - Tipo de linguagem de programação
+
+O Python é um tipo de linguagem "interpretada". Necessário um "interperter" para execução do código; neste caso o Python.exe
+
+
+[*] Criação de um Virtual Environment
+
+Para que serve o virtual environment? Para criar um ambiente dedicado com bibliotecas especificas do desenvolvimento em causa. Nao instala bibliotecas ao nível do sistema.
+
+
+[*] Estrutura típica de um programa Python
+
+
+[ Import das bibliotecas ]
+
+if __name__=='__main__':
+	<<
+	source code
+	>>
